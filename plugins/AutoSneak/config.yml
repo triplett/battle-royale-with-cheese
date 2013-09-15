@@ -1,0 +1,9 @@
+messages:
+  sneakOn: ¬ß7You are now sneaking.
+  sneakOff: ¬ß7You are no longer sneaking.
+  sneakCooldown: ¬ß4You must wait <time> seconds before you may sneak again.
+options:
+  timers:
+    duration: 0
+    cooldown: 0
+    refresh: 5
